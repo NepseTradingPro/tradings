@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/NepseTradingPro/tradings/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://invite.viber.com/?g2=AQArtTIOO4RT6E3ASzOU8rABrCw1xmBowLQSGuxSWoEL5We8Ki1orDVQPrfwxoUq) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
